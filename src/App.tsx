@@ -1,5 +1,5 @@
 import React, { useRef, useEffect, useState } from "react";
-import { MapData, SymbolType } from "./Types/MapTypes";
+import { SymbolType } from "./Types/MapTypes";
 import { COLOR_LABELS, ColorScheme, DEFAULT_COLORS } from "./Types/ColorTypes";
 import { SYMBOLS } from "./Types/SymbolTypes";
 import { renderShapePath } from "./Utils/renderShapePath";
